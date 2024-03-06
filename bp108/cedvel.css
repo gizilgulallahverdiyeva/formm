@@ -1,0 +1,22 @@
+table , th , td {
+    border-collapse: collapse;
+}
+
+th {
+    background-color: brown;
+    text-decoration-color: bisque;
+    text-decoration: underline;
+    color: aqua;
+}
+
+td {
+    background-color: beige;
+    color: blue;
+
+}
+body {
+    background-color: rgb(231, 196, 255);
+}
+.head {
+    color: rgb(0, 162, 255);
+}
